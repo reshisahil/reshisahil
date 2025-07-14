@@ -1,4 +1,4 @@
-# 👋 Hello, I'm  Reshi Sahil — aka Cyber Warrior ⚔️
+Hey, I'm  Reshi Sahil — aka Cyber Warrior ⚔
 
 🎓 Second-year Computer Science Engineering student  
 💻 Future Ethical Hacker | Linux Lover | C & Python Programmer  
