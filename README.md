@@ -23,10 +23,10 @@ currently working on thse projects:
 ---
 
 ## 📜 Certifications
-.postman API student fundamental expert
-.cloud computing
-.web development
-.basics of cyber security
+-postman API student fundamental expert
+-cloud computing
+-web development
+-basics of cyber security
 ----
 ## 📫 Connect with Me
 
