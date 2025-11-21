@@ -17,7 +17,7 @@ Hey, I'm  Reshi Sahil — aka Cyber Warrior ⚔
 
 ## 📂 My Projects
 OPEN SOURCE CONTRIBUTOR- WOCS"25, SOWC"25
-- currently working on thse projects:
+##  currently working on thse projects:
 - fraud detection system with bot verification call n wassap messsage.
 - a chatbox for talking
 - AI voice like alexa 
