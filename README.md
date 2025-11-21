@@ -1,24 +1,25 @@
 Hey, I'm  Reshi Sahil — aka Cyber Warrior ⚔
 
 🎓 Second-year Computer Science Engineering student  
-💻 Future Ethical Hacker | Linux Lover | C & Python Programmer  
+💻 Future Ethical Hacker | Linux Lover | C & javaProgrammer  
 🚀 Passionate about Cybersecurity, Networking & System Hacking
 
 ---
 
 ## 🔧 Tech Stack
 
-- 💻 Languages: C, html,css,js
-- 🛠 Tools: vscode,git,github
+- 💻 Languages: C, html,css,js, basics java
+- 🛠 Tools: vscode,git,github,mongodb
 - 🐧 Platforms: windows,ubuntu for linux
-- 🌐 Skills: Networking Basics, operating system, strong communicaton, leadership qualities!
+- 🌐 Skills: github, Networking Basics, operating system, strong communicaton, leadership qualities!
 
 ---
 
 ## 📂 My Projects
 currently working on thse projects:
 - fraud detection system with bot verification call n wassap messsage.
-- a chatbox for talking 
+- a chatbox for talking
+- AI voice like alexa 
 
 ---
 
@@ -26,7 +27,7 @@ currently working on thse projects:
 -postman API student fundamental expert
 -cloud computing
 -web development
--basics of cyber security
+-cyber security from IBM skillsbud
 ----
 ## 📫 Connect with Me
 
