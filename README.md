@@ -18,7 +18,7 @@ Hey, I'm  Reshi Sahil —
 ## 📂 My Projects
 OPEN SOURCE CONTRIBUTOR- WOCS"25, SOWC"25
 ##  currently working on thse projects:
--Shield-x (wich is abt link phishing detection)
+ Shield-x (wich is abt link phishing detection)
 - fraud detection system with bot verification call n wassap messsage.
 - a chatbox for talking
 - AI voice like alexa 
@@ -26,10 +26,10 @@ OPEN SOURCE CONTRIBUTOR- WOCS"25, SOWC"25
 ---
 
 ## 📜 Certifications
--postman API student fundamental expert
--cloud computing
--web development
--cyber security from IBM skillsbud
+.postman API student fundamental expert
+.cloud computing
+.web development
+.cyber security from IBM skillsbud
 ----
 ## 📫 Connect with Me
 
