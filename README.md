@@ -1,14 +1,14 @@
-Hey, I'm  Reshi Sahil — aka Cyber Warrior ⚔
+Hey, I'm  Reshi Sahil — 
 
 🎓 Second-year Computer Science Engineering student  
-💻 Future Ethical Hacker | Linux Lover | C & javaProgrammer  
+💻 Future Ethical Hacker | Linux Lover | C & java Programmer  
 🚀 Passionate about Cybersecurity, Networking & System Hacking
 
 ---
 
 ## 🔧 Tech Stack
 
-- 💻 Languages: C, html,css,js, basics java
+- 💻 Languages: C, html,css,js, basics of java
 - 🛠 Tools: vscode,git,github,mongodb
 - 🐧 Platforms: windows,ubuntu for linux
 - 🌐 Skills: github, Networking Basics, operating system, strong communicaton, leadership qualities!
@@ -18,6 +18,7 @@ Hey, I'm  Reshi Sahil — aka Cyber Warrior ⚔
 ## 📂 My Projects
 OPEN SOURCE CONTRIBUTOR- WOCS"25, SOWC"25
 ##  currently working on thse projects:
+-Shield-x (wich is abt link phishing detection)
 - fraud detection system with bot verification call n wassap messsage.
 - a chatbox for talking
 - AI voice like alexa 
