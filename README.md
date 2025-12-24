@@ -1,7 +1,7 @@
 Hey, I'm  Reshi Sahil — 
 
 🎓 Second-year Computer Science Engineering student  
-💻 Future Ethical Hacker | Linux Lover | C & java Programmer  
+💻 Future Ethical Hacker 
 🚀 Passionate about Cybersecurity, Networking & System Hacking
 
 ---
@@ -9,7 +9,7 @@ Hey, I'm  Reshi Sahil —
 ## 🔧 Tech Stack
 
 - 💻 Languages: C, html,css,js, basics of java
-- 🛠 Tools: vscode,git,github,mongodb
+- 🛠 Tools: vscode,git,github,mongodb, bursp suit
 - 🐧 Platforms: windows,ubuntu for linux
 - 🌐 Skills: github, Networking Basics, operating system, strong communicaton, leadership qualities!
 
@@ -27,9 +27,9 @@ OPEN SOURCE CONTRIBUTOR- WOCS"25, SOWC"25
 
 ## 📜 Certifications-
 - postman API student fundamental expert
-- cloud computing
+- cyber security and data- IBM skillsbud
 - web development
-- cyber security from IBM skillsbud
+- cloud computing 
 ----
 ## 📫 Connect with Me
 
