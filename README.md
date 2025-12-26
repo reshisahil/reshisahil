@@ -8,7 +8,7 @@ Hey, I'm  Reshi Sahil —
 
 ## 🔧 Tech Stack
 
-- 💻 Languages: C, html,css,js, basics of java
+- 💻 Languages: C,Python,Java (basic) ,  html,css,js,
 - 🛠 Tools: vscode,git,github,mongodb, bursp suit
 - 🐧 Platforms: windows,ubuntu for linux
 - 🌐 Skills: github, Networking Basics, operating system, strong communicaton, leadership qualities!
