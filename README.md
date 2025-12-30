@@ -20,8 +20,6 @@ OPEN SOURCE CONTRIBUTOR- WOCS"25, SOWC"25
 ##  currently working on thse projects:
 - Shield-x (wich is abt link phishing detection)
 - fraud detection system with bot verification call n wassap messsage.
-- a chatbox for talking
-- AI voice like alexa 
 
 ---
 
