@@ -56,13 +56,15 @@ Actively building real-world security projects and contributing to open source.
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Reshi Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=reshisahil&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reshisahil&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reshisahil&layout=compact&theme=tokyonight&cache_seconds=86400)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshisahil&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ----
 ## 📫 Connect with Me
