@@ -58,9 +58,9 @@ Actively building real-world security projects and contributing to open source.
 
 ## 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=reshisahil&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reshisahil&layout=compact&theme=tokyonight)
 
 ----
 ## 📫 Connect with Me
