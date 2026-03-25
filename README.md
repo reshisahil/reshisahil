@@ -43,7 +43,7 @@ Actively building real-world security projects and contributing to open source.
 - Currently solving Advanced Enterprise Challenges  
 
 🔹 Current Project  
-- Shield-X — Phishing Link Detection System  
+- VectOr-watch!! 
 
 ---
 
