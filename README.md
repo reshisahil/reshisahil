@@ -68,4 +68,3 @@ Actively building real-world security projects and contributing to open source.
 
 - 🌐 GitHub: https://github.com/reshisahil
 - 💼 LinkedIn: https://www.linkedin.com/in/reshi-sahil-bba751353/
-- ✉️ Email: reshisahilshahbaz@gmail.com
