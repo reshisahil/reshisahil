@@ -1,6 +1,6 @@
 # Hey, I'm Reshi Sahil
 
-🎓 Second-Year Computer Science Engineering Student  
+🎓 3rd-Year Computer Science Engineering Student  
 🛡️ Aspiring Ethical Hacker | Cybersecurity Enthusiast  
 ⚡ Passionate about Networking, Linux & System Security  
 
