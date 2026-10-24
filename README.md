@@ -1,8 +1,9 @@
 # Hi, I'm Reshi Sahil 👋
 
-3rd-year B.E. CSE (IoT) student in Bengaluru, focused on offensive security.
-Cybersecurity Domain Lead at SYNEXUS (college tech club). Currently preparing
-for Red Team / penetration testing internships.
+3rd-year B.E. CSE (IoT) student in Bengaluru with a strong interest in
+cybersecurity, networking and Linux. Cybersecurity Domain Lead at SYNEXUS
+(college tech club). Currently building security projects and looking for
+cybersecurity internship opportunities.
 
 ## 🔐 Security Projects
 - **[Intrusion Detection System](https://github.com/reshisahil/Intrusion-Detection-Syetem.git)** *(in progress)*: Python IDS detecting
