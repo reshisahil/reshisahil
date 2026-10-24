@@ -1,4 +1,4 @@
-# Hi, I'm Reshi Sahil 
+# Hi, I'm Sahil Shahbaz
 
 3rd-year B.E. CSE (IoT) student in Bengaluru with a strong interest in
 cybersecurity, networking and Linux. Cybersecurity Domain Lead at SYNEXUS
