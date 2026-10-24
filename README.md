@@ -5,13 +5,13 @@ Cybersecurity Domain Lead at SYNEXUS (college tech club). Currently preparing
 for Red Team / penetration testing internships.
 
 ## 🔐 Security Projects
-- **[Intrusion Detection System](https://github.com/SHOT786/Web-Vulnerability-Scanner-Reporter.git)** *(in progress)*: Python IDS detecting
+- **[Intrusion Detection System](https://github.com/reshisahil/Intrusion-Detection-Syetem.git)** *(in progress)*: Python IDS detecting
   port scans, brute force and ARP spoofing, then red-teamed to find evasion gaps
-- **[Web Vulnerability Scan Reporter](link)**: Python scanner that checks ports
+- **[Web Vulnerability Scan Reporter](https://github.com/SHOT786/Web-Vulnerability-Scanner-Reporter.git)**: Python scanner that checks ports
   and generates a findings report *(upgrade in progress)*
-- **[PortSwigger Web Security Academy Writeups](link)**: labs organised by
+- **[PortSwigger Web Security Academy Writeups](https://github.com/reshisahil/Portswigger-web-security.git)**: labs organised by
   vulnerability class, with root cause and fixes
-- **[CTF Writeups](link)**: picoCTF challenges (web exploitation, cryptography)
+- **[CTF Writeups](https://github.com/reshisahil/CTF-Write-ups.git)**: picoCTF challenges (web exploitation, cryptography)
 
 ## 🧰 Skills
 **Security:** Burp Suite · Wireshark · Nmap · Linux (Mint/Kali)
@@ -28,4 +28,4 @@ for Red Team / penetration testing internships.
 Building the IDS · working through PortSwigger labs · picoCTF · learning Python & Bash
 
 ## 📫 Reach me
-[LinkedIn](link) · [PortSwigger](link) · [picoCTF](link)
+[LinkedIn](www.linkedin.com/in/reshisahil007) · [PortSwigger](link) · [picoCTF](https://learn.cylabacademy.org/users/reshisahil)
