@@ -5,7 +5,7 @@ Cybersecurity Domain Lead at SYNEXUS (college tech club). Currently preparing
 for Red Team / penetration testing internships.
 
 ## 🔐 Security Projects
-- **[Intrusion Detection System](link)** *(in progress)*: Python IDS detecting
+- **[Intrusion Detection System](https://github.com/SHOT786/Web-Vulnerability-Scanner-Reporter.git)** *(in progress)*: Python IDS detecting
   port scans, brute force and ARP spoofing, then red-teamed to find evasion gaps
 - **[Web Vulnerability Scan Reporter](link)**: Python scanner that checks ports
   and generates a findings report *(upgrade in progress)*
