@@ -28,4 +28,4 @@ for Red Team / penetration testing internships.
 Building the IDS · working through PortSwigger labs · picoCTF · learning Python & Bash
 
 ## 📫 Reach me
-[LinkedIn](www.linkedin.com/in/reshisahil007) · [PortSwigger](link) · [picoCTF](https://learn.cylabacademy.org/users/reshisahil)
+[LinkedIn](https://www.linkedin.com/in/reshisahil007) · [PortSwigger](link) · [picoCTF](https://learn.cylabacademy.org/users/reshisahil)
