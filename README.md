@@ -15,9 +15,9 @@ cybersecurity internship opportunities.
 - **[CTF Writeups](https://github.com/reshisahil/CTF-Write-ups.git)**: picoCTF challenges (web exploitation, cryptography)
 
 ## 🧰 Skills
-**Security:** Burp Suite · Wireshark · Nmap · Linux (Mint/Kali)
-**Languages:** Python · C · Bash
-**Other:** Git · SQL · Postman (API testing)
+- **Security:** Burp Suite · Wireshark · Nmap · Linux (Mint/Kali)
+- **Languages:** Python · C · Bash
+- **Other:** Git · SQL · Postman (API testing)
 
 ## 📜 Certifications
 - NPTEL Ethical Hacking
